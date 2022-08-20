@@ -11,3 +11,5 @@ ResNet first introduced the concept of skip connection. The concept is stacking 
 # Fastai
 fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. It aims to do both things without substantial compromises in ease of use, flexibility, or performance. 
 
+The model is able to recognise, identify and detect various clothing items
+![image.png](https://user-images.githubusercontent.com/65905342/185755725-0f61bcf0-d28b-4e0f-90ab-c777f0da73c9.png)
