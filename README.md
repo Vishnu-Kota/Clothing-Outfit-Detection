@@ -7,3 +7,7 @@
 ResNet first introduced the concept of skip connection. The concept is stacking convolution layers together one after the other. We still stack convolution layers as before but we now also add the original input to the output of the convolution block. This is called skip connection
 ![image.png](https://miro.medium.com/max/1400/1*hEU7S-EiVqcmtAlj6kgfRA.png)
 ![image.png](https://miro.medium.com/max/1140/1*D0F3UitQ2l5Q0Ak-tjEdJg.png)
+
+# Fastai
+fastai is a deep learning library which provides practitioners with high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains, and provides researchers with low-level components that can be mixed and matched to build new approaches. It aims to do both things without substantial compromises in ease of use, flexibility, or performance. 
+
